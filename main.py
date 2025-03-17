@@ -74,6 +74,7 @@ def pagar_pedido():
 
 root = tk.Tk()
 root.title("Pizzería Perfecta")
+root.iconbitmap("Recetas\pizza.ico")
 root.geometry("900x1000")
 root.resizable(False, False)
 root.configure(bg="#f4a261")
